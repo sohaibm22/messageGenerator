@@ -1,12 +1,3 @@
-const message = ["man", "boy", "kid", "women", "brother"];
-const words = ["the greather the mass the more attraction ", "lil bro shush please", "i forgot what he said"]
+# MessageGenerator 
 
-const generator = message[Math.floor(Math.random() * 5)];
-
-const poem = words[Math.floor(Math.random() * 3)];
-
-function messageGenerator(){
-    console.log( `Ones a ${generator} said "${poem}".`)
-}
-
-messageGenerator();
+in this project i coded a random message generator
