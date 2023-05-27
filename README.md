@@ -1,3 +1,4 @@
 # messageGenerator
 
-This code i made a **messageGenerator**. that generate a random message everytime someone runs the program.
+The attached code, is a progran which will generate **random messages**,
+each time a user runs the program. 
